@@ -1,0 +1,11 @@
+  .lproduct img
+  {
+       height: 300px;
+       object-fit: cover;
+  }
+  .swiper-slide img
+  {
+    height: 450px;
+    object-fit: cover;
+  }
+ 
